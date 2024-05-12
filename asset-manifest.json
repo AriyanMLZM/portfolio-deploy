@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3075937d.css",
-    "main.js": "/static/js/main.cf795255.js",
+    "main.js": "/static/js/main.3dc9edbe.js",
     "static/media/build2.glb": "/static/media/build2.757110b150bf7713500a.glb",
     "static/media/music3.mp3": "/static/media/music3.128d6ea025641feec2eb.mp3",
     "static/media/music4.mp3": "/static/media/music4.de23a05c8ecb42bbd7d0.mp3",
@@ -30,6 +30,7 @@
     "static/media/bt.jpg": "/static/media/bt.cd2c1bf07fe68d61cb52.jpg",
     "static/media/holo.mp3": "/static/media/holo.0d8a951feedc7fc2a20a.mp3",
     "static/media/proj12.jpg": "/static/media/proj12.bc782bd9271be543c3a0.jpg",
+    "static/media/proj13.jpg": "/static/media/proj13.1bcc1145cafd34e1fbb8.jpg",
     "static/media/brn.jpg": "/static/media/brn.7d21fe74c569f068f7e2.jpg",
     "static/media/proj3.jpg": "/static/media/proj3.be7783ec4a5de60e4f88.jpg",
     "static/media/guitar.mp3": "/static/media/guitar.184fa051462a73a47cfd.mp3",
@@ -49,10 +50,10 @@
     "static/media/click.mp3": "/static/media/click.75a1d422afb6185d19d0.mp3",
     "index.html": "/index.html",
     "main.3075937d.css.map": "/static/css/main.3075937d.css.map",
-    "main.cf795255.js.map": "/static/js/main.cf795255.js.map"
+    "main.3dc9edbe.js.map": "/static/js/main.3dc9edbe.js.map"
   },
   "entrypoints": [
     "static/css/main.3075937d.css",
-    "static/js/main.cf795255.js"
+    "static/js/main.3dc9edbe.js"
   ]
 }
